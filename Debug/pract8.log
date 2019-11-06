@@ -1,0 +1,13 @@
+﻿  FabianCastilloFannyAnahi_proyecto_Gpo3.cpp
+c:\users\fanny\desktop\2020-1\labgráfica\practica8\pract8\pract8\fabiancastillofannyanahi_proyecto_gpo3.cpp(621): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\fanny\desktop\2020-1\labgráfica\practica8\pract8\pract8\fabiancastillofannyanahi_proyecto_gpo3.cpp(1217): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\fanny\desktop\2020-1\labgráfica\practica8\pract8\pract8\fabiancastillofannyanahi_proyecto_gpo3.cpp(1223): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\fanny\desktop\2020-1\labgráfica\practica8\pract8\pract8\fabiancastillofannyanahi_proyecto_gpo3.cpp(1229): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\fanny\desktop\2020-1\labgráfica\practica8\pract8\pract8\fabiancastillofannyanahi_proyecto_gpo3.cpp(1235): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\fanny\desktop\2020-1\labgráfica\practica8\pract8\pract8\fabiancastillofannyanahi_proyecto_gpo3.cpp(1457): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\fanny\desktop\2020-1\labgráfica\practica8\pract8\pract8\fabiancastillofannyanahi_proyecto_gpo3.cpp(1458): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\fanny\desktop\2020-1\labgráfica\practica8\pract8\pract8\fabiancastillofannyanahi_proyecto_gpo3.cpp(1462): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\fanny\desktop\2020-1\labgráfica\practica8\pract8\pract8\fabiancastillofannyanahi_proyecto_gpo3.cpp(1463): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\fanny\desktop\2020-1\labgráfica\practica8\pract8\pract8\fabiancastillofannyanahi_proyecto_gpo3.cpp(1465): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\fanny\desktop\2020-1\labgráfica\practica8\pract8\pract8\fabiancastillofannyanahi_proyecto_gpo3.cpp(1466): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  pract8.vcxproj -> C:\Users\Fanny\Desktop\2020-1\LabGráfica\Practica8\pract8\Debug\pract8.exe
